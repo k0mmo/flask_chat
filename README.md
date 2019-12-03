@@ -2,10 +2,10 @@
 <br>
 <br>file structure is:
 <br>Chat_room
-<br>  |
-<br>  |
-<br>    main.py
-<br>    tepletes
-<br>      |
-<br>      |
-<br>      session.html
+<br>&nbsp;&nbsp;&nbsp;&nbsp|
+<br>&nbsp;&nbsp;&nbsp;&nbsp|
+<br>&nbsp;&nbsp;&nbsp;&nbspmain.py
+<br>&nbsp;&nbsp;&nbsp;&nbsptepletes
+<br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp|
+<br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp|
+<br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbspsession.html

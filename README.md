@@ -1,1 +1,1 @@
-# flask_chat
+# simple flask chat server

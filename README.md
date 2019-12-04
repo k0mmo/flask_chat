@@ -3,9 +3,7 @@
 <br>file structure is:
 <br>Chat_room
 <br>&nbsp;&nbsp;&nbsp;&nbsp|
-<br>&nbsp;&nbsp;&nbsp;&nbsp|
-<br>&nbsp;&nbsp;&nbsp;&nbspmain.py
-<br>&nbsp;&nbsp;&nbsp;&nbsptemplates
+<br>&nbsp;&nbsp;&nbsp;&nbsp|-main.py
+<br>&nbsp;&nbsp;&nbsp;&nbsp|-templates
 <br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp|
-<br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp|
-<br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbspsession.html
+<br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp|-session.html

@@ -1,4 +1,4 @@
-# files saved in .7z folder
+# flask chat server
 <br>
 <br>file structure is:
 <br>Chat_room

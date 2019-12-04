@@ -5,7 +5,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp|
 <br>&nbsp;&nbsp;&nbsp;&nbsp|
 <br>&nbsp;&nbsp;&nbsp;&nbspmain.py
-<br>&nbsp;&nbsp;&nbsp;&nbsptepletes
+<br>&nbsp;&nbsp;&nbsp;&nbsptemplates
 <br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp|
 <br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp|
 <br>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbspsession.html
